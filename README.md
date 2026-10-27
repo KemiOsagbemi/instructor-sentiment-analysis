@@ -7,7 +7,7 @@
 # 📊 Instructor Engagement Dashboard using Sentiment Analysis
 
 ## 🧩 Project Overview
-This project aims to detect instructor engagement issues by analyzing student reviews. It uses natural language processing (NLP) and sentiment analysis to extract insights from feedback, allowing instructors and administrators to improve teaching effectiveness.
+This project aims to detect instructor engagement issues by analyzing student reviews. It uses natural language processing (NLP) and sentiment analysis to extract insights from feedback, allowing instructors and administrators to improve teaching effectiveness. This can be useful in the Edtech industry.
 
 ---
 
